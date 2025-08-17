@@ -3,3 +3,6 @@ bananas
 cherries
 dragon fruits
 figs
+passionfruit 
+mango
+peach
