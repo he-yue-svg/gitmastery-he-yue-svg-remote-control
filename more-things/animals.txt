@@ -1,0 +1,7 @@
+chicken 
+pig 
+homosapien 
+english shorthair 
+corgi 
+husky 
+
